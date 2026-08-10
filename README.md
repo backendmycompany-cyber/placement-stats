@@ -8,13 +8,13 @@ A lightweight, responsive website for viewing the Placement 2027 records in full
 
 [![Placement 2027 — Sheet 01](placement-sheet-01.png)](placement-sheet-01.png)
 
-[Open the original on Google Drive](https://drive.google.com/file/d/1u2TwsdGwMOSGdeYHEUrDipJqivCIV4Wl/view?usp=drive_link)
+
 
 ### Sheet 02
 
 [![Placement 2027 — Sheet 02](placement-sheet-02.png)](placement-sheet-02.png)
 
-[Open the original on Google Drive](https://drive.google.com/file/d/1NgwhSFUulONn_yGKhQngpUUbCD4Fosxb/view?usp=drive_link)
+
 
 ## Deploy on Vercel
 
